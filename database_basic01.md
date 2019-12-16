@@ -443,3 +443,33 @@ group by customer_id, staff_id
 with rollup
 ```
 
+
+
+
+
+# REVIEW 
+
+
+
+
+
+# DML, DDL, DCL 
+
+
+
+
+
+데이터 베이스 개요 
+
+DB, DBMS, RDBMS(MySQL)
+
+Server - Database - Table -row, column - value 
+
+모델링 - 개념적, 논리적, 물리적 
+
+
+
+WHERE 와 HAVING 은 실행 시작 시점이 달름. 
+
+
+
